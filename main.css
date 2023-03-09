@@ -1,0 +1,32 @@
+h2{
+    background-color: aquamarine;
+    border-radius: 80px; 
+    font-size: xx-large;
+    
+    
+}
+
+p{
+    color: black;
+
+}
+
+header{
+    background-color: #f3f4f6;
+    
+}
+
+.SPIDERMAN{
+    color: #b11313;
+    font-size: 55px;
+    text-align: right;
+    border-radius: 20px; 
+    margin: 10px;
+    background-color: #447bbe;
+    background-size: cover;
+    width: fit-content;
+    padding: 10px;
+}
+#ads{
+    background-color: lightblue;
+}
